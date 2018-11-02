@@ -1,0 +1,2 @@
+	global ILCInit = 0;
+	global ILCCurPos = 0;
