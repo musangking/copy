@@ -1,0 +1,4 @@
+usrcode.c: In function 'ILC_Init':
+usrcode.c:120: warning: assignment from incompatible pointer type
+usrcode.c: In function 'ILC_Clear':
+usrcode.c:141: warning: passing argument 1 of 'memset' discards qualifiers from pointer target type

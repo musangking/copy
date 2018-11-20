@@ -1,0 +1,12 @@
+In file included from /cygdrive/c/Users/lenovo/DOCUME~1/POWERP~2/ILC/ILC/CLANGU~1/REALTI~1/usrcode.c:20:
+/cygdrive/c/Users/lenovo/DOCUME~1/POWERP~2/ILC/ILC/CLANGU~1/REALTI~1/usrcode.h:181: warning: type defaults to 'int' in declaration of 'pp'
+/cygdrive/c/Users/lenovo/DOCUME~1/POWERP~2/ILC/ILC/CLANGU~1/REALTI~1/usrcode.c: In function 'CfromScript':
+/cygdrive/c/Users/lenovo/DOCUME~1/POWERP~2/ILC/ILC/CLANGU~1/REALTI~1/usrcode.c:84: warning: unused variable 'icfrom_type'
+/cygdrive/c/Users/lenovo/DOCUME~1/POWERP~2/ILC/ILC/CLANGU~1/REALTI~1/usrcode.c: In function 'ILC_Init':
+/cygdrive/c/Users/lenovo/DOCUME~1/POWERP~2/ILC/ILC/CLANGU~1/REALTI~1/usrcode.c:120: warning: assignment from incompatible pointer type
+/cygdrive/c/Users/lenovo/DOCUME~1/POWERP~2/ILC/ILC/CLANGU~1/REALTI~1/usrcode.c: In function 'ILC_Clear':
+/cygdrive/c/Users/lenovo/DOCUME~1/POWERP~2/ILC/ILC/CLANGU~1/REALTI~1/usrcode.c:141: warning: passing argument 1 of 'memset' discards qualifiers from pointer target type
+/cygdrive/c/Users/lenovo/DOCUME~1/POWERP~2/ILC/ILC/CLANGU~1/REALTI~1/usrcode.c: In function 'mainILC':
+/cygdrive/c/Users/lenovo/DOCUME~1/POWERP~2/ILC/ILC/CLANGU~1/REALTI~1/usrcode.c:260: warning: unused variable 'e_1'
+/cygdrive/c/Users/lenovo/DOCUME~1/POWERP~2/ILC/ILC/CLANGU~1/REALTI~1/usrcode.c:259: warning: unused variable 'Integrator'
+/cygdrive/c/Users/lenovo/DOCUME~1/POWERP~2/ILC/ILC/CLANGU~1/REALTI~1/usrcode.c:270: warning: 'ILC' is used uninitialized in this function

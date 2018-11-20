@@ -1,0 +1,12 @@
+cp -f /usr/local/usralgo/usralgomain.c /cygdrive/c/Users/lenovo/DOCUME~1/POWERP~2/ILC/ILC/CLANGU~1/REALTI~1
+make -C /opt/powerpc-405-rootfs/usr/src/linux-2.6.30.3-xeno-2.5.6 SUBDIRS=/cygdrive/c/Users/lenovo/DOCUME~1/POWERP~2/ILC/ILC/CLANGU~1/REALTI~1 modules
+make[1]: Entering directory `/opt/powerpc-405-rootfs/usr/src/linux-2.6.30.3-xeno-2.5.6'
+  CC [M]  /cygdrive/c/Users/lenovo/DOCUME~1/POWERP~2/ILC/ILC/CLANGU~1/REALTI~1/usralgomain.o
+  CC [M]  /cygdrive/c/Users/lenovo/DOCUME~1/POWERP~2/ILC/ILC/CLANGU~1/REALTI~1/usrcode.o
+  LD [M]  /cygdrive/c/Users/lenovo/DOCUME~1/POWERP~2/ILC/ILC/CLANGU~1/REALTI~1/usralgo.o
+  Building modules, stage 2.
+  MODPOST 1 modules
+  CC      /cygdrive/c/Users/lenovo/DOCUME~1/POWERP~2/ILC/ILC/CLANGU~1/REALTI~1/usralgo.mod.o
+  LD [M]  /cygdrive/c/Users/lenovo/DOCUME~1/POWERP~2/ILC/ILC/CLANGU~1/REALTI~1/usralgo.ko
+make[1]: Leaving directory `/opt/powerpc-405-rootfs/usr/src/linux-2.6.30.3-xeno-2.5.6'
+mv -f usralgo.ko ../../bin/Debug/

@@ -1,0 +1,9 @@
+1	Global	myServoPeriod	8192	1
+2	Global	F_Init	8193	1
+3	Global	F_CalcuNext	8194	1
+4	Global	F_isClearing	8195	1
+5	Global	F_isSavingError	8196	1
+6	Global	F_isRunning	8197	1
+7	Global	F_isIterative	8198	1
+8	Global	mye	8199	1
+9	Global	CurTrajLength	8200	1
