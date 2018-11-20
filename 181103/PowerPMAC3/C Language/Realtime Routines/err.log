@@ -1,0 +1,4 @@
+/cygdrive/c/Users/lenovo/DOCUME~1/POWERP~2/1/POWERP~1/CLANGU~1/REALTI~1/usrcode.c: In function 'CfromScript':
+/cygdrive/c/Users/lenovo/DOCUME~1/POWERP~2/1/POWERP~1/CLANGU~1/REALTI~1/usrcode.c:84: warning: unused variable 'icfrom_type'
+/cygdrive/c/Users/lenovo/DOCUME~1/POWERP~2/1/POWERP~1/CLANGU~1/REALTI~1/usrcode.c: In function 'ILC_Init':
+/cygdrive/c/Users/lenovo/DOCUME~1/POWERP~2/1/POWERP~1/CLANGU~1/REALTI~1/usrcode.c:99: warning: ISO C90 forbids mixed declarations and code

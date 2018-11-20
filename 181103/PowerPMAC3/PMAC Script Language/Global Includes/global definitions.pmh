@@ -1,0 +1,5 @@
+	global ILCInit = 0;
+	global ILCCurPos = 0;
+	global InitPos = 0;
+	
+	global  myServoPeriod = Sys.ServoPeriod/1000;
