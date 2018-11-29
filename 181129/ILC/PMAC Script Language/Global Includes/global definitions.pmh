@@ -1,0 +1,10 @@
+global  myServoPeriod = Sys.ServoPeriod/1000;
+
+global F_Init = 1;
+global F_CalcuNext = 0;
+global F_isClearing = 0;
+global F_isSavingError = 0;
+global F_isRunning = 0;
+global F_isIterative = 0;
+
+global mye;

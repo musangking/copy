@@ -1,0 +1,29 @@
+/cygdrive/c/Users/lenovo/DOCUME~1/POWERP~2/SEGMEN~1/ILC/CLANGU~1/REALTI~1/usrcode.c: In function 'CfromScript':
+/cygdrive/c/Users/lenovo/DOCUME~1/POWERP~2/SEGMEN~1/ILC/CLANGU~1/REALTI~1/usrcode.c:84: warning: unused variable 'icfrom_type'
+/cygdrive/c/Users/lenovo/DOCUME~1/POWERP~2/SEGMEN~1/ILC/CLANGU~1/REALTI~1/usrcode.c: In function 'ILC_Init':
+/cygdrive/c/Users/lenovo/DOCUME~1/POWERP~2/SEGMEN~1/ILC/CLANGU~1/REALTI~1/usrcode.c:119: warning: assignment from incompatible pointer type
+/cygdrive/c/Users/lenovo/DOCUME~1/POWERP~2/SEGMEN~1/ILC/CLANGU~1/REALTI~1/usrcode.c:129: warning: assignment from incompatible pointer type
+/cygdrive/c/Users/lenovo/DOCUME~1/POWERP~2/SEGMEN~1/ILC/CLANGU~1/REALTI~1/usrcode.c: In function 'ILC_Clear':
+/cygdrive/c/Users/lenovo/DOCUME~1/POWERP~2/SEGMEN~1/ILC/CLANGU~1/REALTI~1/usrcode.c:141: warning: passing argument 1 of 'memset' discards qualifiers from pointer target type
+/cygdrive/c/Users/lenovo/DOCUME~1/POWERP~2/SEGMEN~1/ILC/CLANGU~1/REALTI~1/usrcode.c:142: warning: passing argument 1 of 'memset' discards qualifiers from pointer target type
+/cygdrive/c/Users/lenovo/DOCUME~1/POWERP~2/SEGMEN~1/ILC/CLANGU~1/REALTI~1/usrcode.c:143: warning: passing argument 1 of 'memset' discards qualifiers from pointer target type
+/cygdrive/c/Users/lenovo/DOCUME~1/POWERP~2/SEGMEN~1/ILC/CLANGU~1/REALTI~1/usrcode.c: In function 'ILC_SaveError':
+/cygdrive/c/Users/lenovo/DOCUME~1/POWERP~2/SEGMEN~1/ILC/CLANGU~1/REALTI~1/usrcode.c:179: error: 'CurTrajLength' undeclared (first use in this function)
+/cygdrive/c/Users/lenovo/DOCUME~1/POWERP~2/SEGMEN~1/ILC/CLANGU~1/REALTI~1/usrcode.c:179: error: (Each undeclared identifier is reported only once
+/cygdrive/c/Users/lenovo/DOCUME~1/POWERP~2/SEGMEN~1/ILC/CLANGU~1/REALTI~1/usrcode.c:179: error: for each function it appears in.)
+/cygdrive/c/Users/lenovo/DOCUME~1/POWERP~2/SEGMEN~1/ILC/CLANGU~1/REALTI~1/usrcode.c: In function 'ILC_NextFF':
+/cygdrive/c/Users/lenovo/DOCUME~1/POWERP~2/SEGMEN~1/ILC/CLANGU~1/REALTI~1/usrcode.c:195: error: 'CurTrajLength' undeclared (first use in this function)
+/cygdrive/c/Users/lenovo/DOCUME~1/POWERP~2/SEGMEN~1/ILC/CLANGU~1/REALTI~1/usrcode.c:200: warning: passing argument 2 of 'ILC_FiltFilt' from incompatible pointer type
+/cygdrive/c/Users/lenovo/DOCUME~1/POWERP~2/SEGMEN~1/ILC/CLANGU~1/REALTI~1/usrcode.c:201: warning: passing argument 2 of 'ILC_FiltFilt' from incompatible pointer type
+/cygdrive/c/Users/lenovo/DOCUME~1/POWERP~2/SEGMEN~1/ILC/CLANGU~1/REALTI~1/usrcode.c:195: warning: unused variable 'ErrorTemp'
+/cygdrive/c/Users/lenovo/DOCUME~1/POWERP~2/SEGMEN~1/ILC/CLANGU~1/REALTI~1/usrcode.c: In function 'ILC_FiltFilt':
+/cygdrive/c/Users/lenovo/DOCUME~1/POWERP~2/SEGMEN~1/ILC/CLANGU~1/REALTI~1/usrcode.c:254: warning: ISO C90 forbids mixed declarations and code
+/cygdrive/c/Users/lenovo/DOCUME~1/POWERP~2/SEGMEN~1/ILC/CLANGU~1/REALTI~1/usrcode.c: At top level:
+/cygdrive/c/Users/lenovo/DOCUME~1/POWERP~2/SEGMEN~1/ILC/CLANGU~1/REALTI~1/usrcode.c:304: error: expected ';', ',' or ')' before '->' token
+/cygdrive/c/Users/lenovo/DOCUME~1/POWERP~2/SEGMEN~1/ILC/CLANGU~1/REALTI~1/usrcode.c: In function 'mainILC':
+/cygdrive/c/Users/lenovo/DOCUME~1/POWERP~2/SEGMEN~1/ILC/CLANGU~1/REALTI~1/usrcode.c:319: warning: unused variable 'Bound'
+/cygdrive/c/Users/lenovo/DOCUME~1/POWERP~2/SEGMEN~1/ILC/CLANGU~1/REALTI~1/usrcode.c:316: warning: unused variable 'e_1'
+/cygdrive/c/Users/lenovo/DOCUME~1/POWERP~2/SEGMEN~1/ILC/CLANGU~1/REALTI~1/usrcode.c:315: warning: unused variable 'Integrator'
+make[2]: *** [/cygdrive/c/Users/lenovo/DOCUME~1/POWERP~2/SEGMEN~1/ILC/CLANGU~1/REALTI~1/usrcode.o] Error 1
+make[1]: *** [_module_/cygdrive/c/Users/lenovo/DOCUME~1/POWERP~2/SEGMEN~1/ILC/CLANGU~1/REALTI~1] Error 2
+make: *** [all] Error 2

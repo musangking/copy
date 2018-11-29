@@ -1,0 +1,36 @@
+// Power PMAC PROGRAM Template.
+// The following Sample PROGRAM is the standard template for creating Motion Programs.
+// Sample PROGRAM
+/****************************************/
+&1
+#1->100000X
+open prog 1
+
+ local LoopCount=1;
+
+ linear;
+ //inc;
+ abs;
+ ta 400; //ms
+ ts 200;
+ tm 500;
+ //f 0.1; // mm/ms
+ Gather.Enable = 2;
+ while(LoopCount<10)
+ {
+	X 0; //走到0位
+	dwell 500;
+
+	F_isRunning = 1; //开始迭代
+	X 1.125;
+	dwell 500;
+		
+	LoopCount ++;
+	if(LoopCount==6)
+	{
+	   Gather.Enable = 0;
+	}
+ }
+close
+/****************************************/
+

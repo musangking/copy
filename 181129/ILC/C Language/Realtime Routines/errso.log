@@ -1,0 +1,18 @@
+usrcode.c: In function 'ILC_Init':
+usrcode.c:119: warning: assignment from incompatible pointer type
+usrcode.c:129: warning: assignment from incompatible pointer type
+usrcode.c: In function 'ILC_Clear':
+usrcode.c:141: warning: passing argument 1 of 'memset' discards qualifiers from pointer target type
+usrcode.c:142: warning: passing argument 1 of 'memset' discards qualifiers from pointer target type
+usrcode.c:143: warning: passing argument 1 of 'memset' discards qualifiers from pointer target type
+usrcode.c: In function 'ILC_SaveError':
+usrcode.c:179: error: 'CurTrajLength' undeclared (first use in this function)
+usrcode.c:179: error: (Each undeclared identifier is reported only once
+usrcode.c:179: error: for each function it appears in.)
+usrcode.c: In function 'ILC_NextFF':
+usrcode.c:195: error: 'CurTrajLength' undeclared (first use in this function)
+usrcode.c:200: warning: passing argument 2 of 'ILC_FiltFilt' from incompatible pointer type
+usrcode.c:201: warning: passing argument 2 of 'ILC_FiltFilt' from incompatible pointer type
+usrcode.c: At top level:
+usrcode.c:304: error: expected ';', ',' or ')' before '->' token
+make: *** [usrcode.o] Error 1
