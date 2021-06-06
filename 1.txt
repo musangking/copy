@@ -1,0 +1,49 @@
+Sat May 08 09:00:24 IST 2021 - INFO - ESB CLI version: 2021.1
+Target OS: CentOS
+Sat May 08 09:00:24 IST 2021 - INFO - Python version: 3.6.8
+Sat May 08 09:00:24 IST 2021 - INFO - Checking Internet connection
+Sat May 08 09:00:34 IST 2021 - INFO - Reconnecting
+Sat May 08 09:00:34 IST 2021 - INFO - Connected to the Internet
+Sat May 08 09:00:34 IST 2021 - INFO - Validating product key
+Sat May 08 09:00:35 IST 2021 - INFO - Successfully validated Product Key
+Sat May 08 09:00:36 IST 2021 - INFO - Connected to a network in China
+Sat May 08 09:00:37 IST 2021 - INFO - Connected to a network in China. Module availability is restricted in your region.
+Sat May 08 09:00:37 IST 2021 - INFO - Modules available for download in your region:
+Sat May 08 09:00:37 IST 2021 - INFO -  OpenNESS
+Sat May 08 09:00:37 IST 2021 - INFO -  Docker_Community_Edition_CE
+Sat May 08 09:00:37 IST 2021 - INFO -  Intel_Distribution_of_OpenVINO_toolkit_2021_2_in_a_Container
+Sat May 08 09:00:37 IST 2021 - INFO -  Sample_OpenVINO_Application_for_OpenNESS
+Sat May 08 09:00:37 IST 2021 - INFO -  AWS_IoT_Greengrass_Core
+Sat May 08 09:00:37 IST 2021 - INFO -  Reference_Implementation__Wireless_NetworkReady_Intelligent_Traffic_Management
+Sat May 08 09:00:37 IST 2021 - INFO - For a successful installation, enter the URL for a local mirror site for pip and apt package managers
+Sat May 08 09:00:42 IST 2021 - INFO - Checking for prerequisites
+Sat May 08 09:00:43 IST 2021 - INFO - Installing prerequisites. This may take some time...
+Sat May 08 09:06:56 IST 2021 - INFO - --------Succesfuly installed prerequisites--------
+Sat May 08 09:06:56 IST 2021 - INFO - All dependencies met
+Sat May 08 09:07:04 IST 2021 - INFO - -------------------SYSTEM INFO--------------------
+Sat May 08 09:07:04 IST 2021 - INFO - Package Name: Patient Fall Monitoring and Prevention in Hospitals 1.0.0
+Sat May 08 09:07:04 IST 2021 - INFO - Product Name: Dell Inc. PowerEdge T440
+Sat May 08 09:07:04 IST 2021 - INFO - CPU SKU: Intel(R) Xeon(R) Silver 4210R CPU @ 2.40GHz
+Sat May 08 09:07:04 IST 2021 - INFO - Memory Size: 30 GB
+Sat May 08 09:07:04 IST 2021 - INFO - Operating System: CentOS Linux 7 (Core)
+Sat May 08 09:07:04 IST 2021 - INFO - Kernel Version: 3.10.0-1127.el7.x86_64
+Sat May 08 09:07:04 IST 2021 - INFO - Accelerator: None
+Sat May 08 09:07:04 IST 2021 - INFO - CPU Utilization: 0.3%
+Sat May 08 09:07:04 IST 2021 - INFO - Available System Memory: 48 GB
+Sat May 08 09:07:05 IST 2021 - INFO - WARNING: Installation may fail. The target device does not meet the minimum system requirement.
+Sat May 08 09:07:05 IST 2021 - INFO - Minimum memory requirement for this package: 128 GB.
+Sat May 08 09:07:05 IST 2021 - INFO - Minimum disk requirement for this package: 256 GB.
+Sat May 08 09:07:05 IST 2021 - INFO - Starting installation
+Sat May 08 09:07:05 IST 2021 - INFO - Modules to be downloaded by package are ['esb_common', 'OpenNESS', 'Docker_Community_Edition_CE', 'Intel_Distribution_of_OpenVINO_toolkit_2021_2_in_a_Container', 'Sample_OpenVINO_Application_for_OpenNESS', 'AWS_IoT_Greengrass_Core', 'Reference_Implementation__Wireless_NetworkReady_Intelligent_Traffic_Management']
+Sat May 08 09:07:05 IST 2021 - INFO - Downloading modules...
+Sat May 08 09:07:05 IST 2021 - INFO - Downloading component esb_common
+Sat May 08 09:07:05 IST 2021 - INFO - Sending request to download module 5e8c4742e02f17002a2a6976
+Sat May 08 09:07:08 IST 2021 - INFO - Sending request to validate module 5e8c4742e02f17002a2a6976 with hash value 6914ceadfd836157c6642d761c7c47f7
+Sat May 08 09:07:08 IST 2021 - INFO - Module validation passed for 5e8c4742e02f17002a2a6976
+Sat May 08 09:07:08 IST 2021 - INFO - Successfully downloaded module esb_common
+Sat May 08 09:07:08 IST 2021 - INFO - Downloading component OpenNESS
+Sat May 08 09:07:08 IST 2021 - INFO - Sending request to download module 60377554a2fba5002cc8e0cc
+Sat May 08 09:07:20 IST 2021 - INFO - Sending request to validate module 60377554a2fba5002cc8e0cc with hash value f7719468f47eac4b805fedaa0b9e96ee
+Sat May 08 09:07:21 IST 2021 - INFO - Module validation passed for 60377554a2fba5002cc8e0cc
+Sat May 08 09:07:21 IST 2021 - INFO - Successfully downloaded module OpenNESS
+Sat May 08 09:07:21 IST 2021 - INFO - Downloading component Docker_Community_Edi
